@@ -1,6 +1,6 @@
 ------------------------------------------------------------------
 --                                                              --
--- Copyright 2004 (C)   Robert Nowotniak <robercik@toya.net.pl> --
+-- Copyright 2004 (C)   Robert Nowotniak <rnowotniak@gmail.com> --
 --                                                              --
 -- $Id: analysebnf.adb,v 1.10 2003/12/12 18:39:41 rob Exp $     --
 --                                                              --

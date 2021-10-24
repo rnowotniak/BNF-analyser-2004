@@ -1,5 +1,5 @@
 #
-# Copyright (C) 2004   Robert Nowotniak <robercik@toya.net.pl>
+# Copyright (C) 2004   Robert Nowotniak <rnowotniak@gmail.com>
 #
 
 CFLAGS=-O3
